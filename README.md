@@ -1,8 +1,5 @@
 # CakePHP Example - Custom Finders
 
-[![Build Status](https://api.travis-ci.org/cakephp/app.png)](https://travis-ci.org/cakephp/app)
-[![License](https://poser.pugx.org/cakephp/app/license.svg)](https://packagist.org/packages/cakephp/app)
-
 An example project created with [CakePHP](http://cakephp.org) 3.0.
 
 This is an unstable repository and should be used only for education.
@@ -16,3 +13,13 @@ This is an unstable repository and should be used only for education.
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+
+##Legals
+
+All code copyright the respective authors/groups.
+
+All new code is licened under the [MIT license](http://opensource.org/licenses/MIT)
+
+I accept no responsibility for your use of the contained code, nor do I declare it fit for any purpose.
+
+All use of this project is strictly at your own risk.
